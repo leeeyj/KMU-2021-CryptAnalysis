@@ -1,0 +1,9 @@
+Cryptanalysis is the study of ciphertext,
+ciphers and cryptosystems with the aim of understanding how they work and finding and improving techniques for defeating or weakening them.
+For example, cryptanalysts seek to decrypt ciphertexts without knowledge of the plaintext source, encryption key or the algorithm used to encrypt it;
+cryptanalysts also target secure hashing, digital signatures and other cryptographic algorithms.
+While the objective of cryptanalysis is to find weaknesses in or otherwise defeat cryptographic algorithms,
+cryptanalysts' research results are used by cryptographers to improve and strengthen or replace flawed algorithms.
+Both cryptanalysis, which focuses on deciphering encrypted data, and cryptography,
+which focuses on creating and improving encryption ciphers and other algorithms, are aspects of cryptology,
+the mathematical study of codes, ciphers and related algorithms.

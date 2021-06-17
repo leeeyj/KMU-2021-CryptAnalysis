@@ -4,7 +4,7 @@
 2. Toy Cipher  
 3. Differential cryptanalysis (차분 공격) 
 4. Linear cryptanalysis (선형 공격)  
-5. impossible differential cryptanalysis (불능 차분 공격)  
+5. Impossible differential cryptanalysis (불능 차분 공격)  
 6. Integral cryptanalysis  
 7. AES 차분/선형 분석
 8. Feistal 구조 (불능)차분/선형 분석
